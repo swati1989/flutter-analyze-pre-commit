@@ -3,3 +3,9 @@
     entry: run
     language: script
     files: \.dart$
+    
+-   id: flutter-format
+    name: Flutter Code Format
+    entry: run
+    language: script
+    files: \.dart$
